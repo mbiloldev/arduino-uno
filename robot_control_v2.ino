@@ -6,7 +6,7 @@
    Bluetooth module (HC-05 / HC-06):vbbg
      Bluetooth TXD  -> Arduino pin 10 (bluetooth RX)
      Bluetooth RXD  -> Arduino pin 11 (bluetooth TX) vvv
-                       *** through a voltage divider! ***
+                       *** through a voltage divider! ***fgh
                        (Arduino 5V -> module RXD = 3.3V max
                         Use 1k + 2k resistor divider, or a
                         logic level converter, or a ready-made
