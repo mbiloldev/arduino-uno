@@ -12,7 +12,7 @@ gbnh
     F - forward            B - backward
     L - turn left          R - turn right
     G - forward-left       I - forward-right
-    H - back-left          J - back-right
+    H - back-left          J - back-rightghjj
     S - stop               D - stop all
 
     Speed:
