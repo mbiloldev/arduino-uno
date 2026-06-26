@@ -5,7 +5,7 @@
   4 motors (one at each corner), controlled via 2x L298N drivers.
   LEFT side motors (front+rear) move TOGETHER.
   RIGHT side motors (front+rear) move TOGETHER.
-ffff
+ffffgggg
   Bluetooth (HC-05/HC-06) receives these letters from the
   "Bluetooth RC Car" app:
     F - forward
