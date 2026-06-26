@@ -8,7 +8,7 @@
 
   Bluetooth (HC-05/HC-06) receives these characters from the
   "Bluetooth RC Controller" app:
-
+gbnh
     F - forward            B - backward
     L - turn left          R - turn right
     G - forward-left       I - forward-right
