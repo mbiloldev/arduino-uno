@@ -11,7 +11,7 @@
 gbnh
     F - forward            B - backward
     L - turn left          R - turn right
-    G - forward-left       I - forward-right
+    G - forward-left       I - forward-rightnhhn
     H - back-left          J - back-rightghjj
     S - stop               D - stop all
 
