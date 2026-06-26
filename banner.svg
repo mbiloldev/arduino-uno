@@ -6,7 +6,7 @@
       <stop offset="50%" style="stop-color:#0a0a2e"/>
       <stop offset="100%" style="stop-color:#0d0d1a"/>
     </linearGradient>
-bbb
+
     <!-- Neon orange glow -->
     <filter id="glowOrange" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
