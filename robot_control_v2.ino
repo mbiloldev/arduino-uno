@@ -11,7 +11,7 @@
                         Use 1k + 2k resistor divider, or a
                         logic level converter, or a ready-made
                         HC-05/06 module that already has one.)
-     Bluetooth VCC  -> 5V (or 3.3V if your module needs it)
+     Bluetooth VCC  -> 5V (or 3.3V if your module needs it)bbbv
      Bluetooth GND  -> GND
 
    L298N Motor Driver:
