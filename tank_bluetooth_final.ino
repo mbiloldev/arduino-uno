@@ -6,7 +6,7 @@
   LEFT side motors (front+rear) move TOGETHER.
   RIGHT side motors (front+rear) move TOGETHER.
 
-  Bluetooth (HC-05/HC-06) receives these characters from the
+  Bluetooth (HC-05/HC-06) receives these characters from thennn
   "Bluetooth RC Controller" app:
 gbnh
     F - forward            B - backward
